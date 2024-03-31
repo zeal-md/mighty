@@ -2,7 +2,7 @@
 <p align="center"> Introducing Gilbert_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://youtube.com/@Gilbertkyalo">
     <img alt="Gilbert docs" height="350" src="https://telegra.ph/file/ec9bc5038601821f2eb84.jpg">
   </a>
 </p>
