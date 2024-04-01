@@ -113,4 +113,4 @@ The Gilbert_Md is made available under the [GPL-3 license](https://github.com/Gi
 - *Gilbert-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Gilbert-Md at your own risk by keeping this warning in mind.*
-- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Gilbert kyalo/Gilbert-Md)
+- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Suhail Tech/suhail-Md)
