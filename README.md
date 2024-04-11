@@ -9,7 +9,7 @@
     
    
    
-<p align="center">
+<p align="up">
   <a href="https://wa.me/+254795443901?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Gilbert-Md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
