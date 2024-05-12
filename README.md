@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://wa.me/message/USWDDH34M2TWH1">
+  <a href="https://telegra.ph/file/13ac9b94f58fae3023e5c.jpg">
     <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
@@ -30,11 +30,11 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="Malditech :: Visitor's Count" /></p>
 
 <p align="center">
 
- <a href="https://github.com/SuhailTechInfo">
+ <a href="https://github.com/Maldii14">
  <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
    <a href="https://github.com/SuhailTechInfo">
     <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> Maldii MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
