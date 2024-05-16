@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@Gilbertkyalo">
-    <img alt="GILBERT BOT" height="400" src="https://telegra.ph/file/ec9bc5038601821f2e85.jpg">
+    <img alt="GILBERT BOT" height="400" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
   </a>
 </p>
     
