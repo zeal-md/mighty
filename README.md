@@ -1,5 +1,5 @@
 <h1 align="center"> GILBERT Md </h1> 
-<p align="center"> Introducing Gilbert_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use.Hivo tu maumbwa 🤕🤕🎭🎭</p>
+<p align="center"> Introducing Gilbert_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
 
 <p align="center">
   <a href="https://youtube.com/@Gilbertkyalo">
@@ -100,7 +100,7 @@
 
 
 ### Thanks To
-- [Gilly🖕🖕](https://github.com/Gilbert kyalo) 
+- [Gilbert Kyalo](https://github.com/Gilbert kyalo) 
 
 
 The Gilbert_Md is made available under the [GPL-3 license](https://github.com/Gilbert kyalo/Gilbert-Md/blob/main/LICENCE).
