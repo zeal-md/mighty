@@ -1,5 +1,5 @@
-<h1 align="center"> GILBERT Md </h1> 
-<p align="center"> Introducing Gilbert_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use.</p>
+<h1 align="center"> GILBERT MD </h1> 
+<p align="center"> Introducing Gilbert_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use,so try it 🫂.</p>
 
 <p align="center">
   <a href="https://youtube.com/@Gilbertkyalo">
@@ -110,7 +110,7 @@ The Gilbert_Md is made available under the [GPL-3 license](https://github.com/Gi
 </h2>
    
 ## 
-- *Gilbert-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Gilbert-Md is not made by `WhatsApp Inc.` Sometimes misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Gilbert-Md at your own risk by keeping this warning in mind.*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/suhail-Md)
