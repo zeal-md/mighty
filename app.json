@@ -1,9 +1,9 @@
 {
-  "name": "rodylie23 md",ď
-  "description": "I am Rodylie23-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "name": "rodylie md",ď
+  "description": "I am Rodylie-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
   "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "rodylie23", "rodylie23 Md bot", "rodylie23-Md", "RODYLIE23MdWhatsaooBot", "RODYLIE23WaBot","rodylie23MD","rodylie23 Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "keywords": ["whatsappbot", "rodylie", "RODYLIE23 Md bot", "rodylie-Md", "RODYLIEMdWhatsaooBot", "RODYLIEWaBot","rodylieMD","rodylie Md Whatsapp Bot","multi device"],
+  "success_url": "/rodylie/",
   "app_url": "/qr/",
   "stack":"container",
   "env": {
@@ -93,7 +93,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "RODYLIE23 MD",
+      "value": "RODYLIE MD",
       "required": false 
     },
     "PACK_AUTHER": {
