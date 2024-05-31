@@ -1,5 +1,5 @@
 {
-  "name": "RODYLIE23 md",
+  "name": "RODYLIE23 md",ď
   "description": "I am Rodylie23-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
   "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
   "keywords": ["whatsappbot", "rodylie23", "rodylie23 Md bot", "rodylie23-Md", "RODYLIE23MdWhatsaooBot", "RODYLIE23WaBot","rodylie23MD","rodylie23 Md Whatsapp Bot","multi device"],
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254797804785"
+      "value": "254796895732"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
