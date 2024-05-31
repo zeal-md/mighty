@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "Rodylie23_md"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "KAJIADO,KENYA"
+      "value": "kenya"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -42,11 +42,11 @@
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required" :false,    
-      "value": "3"
+      "value": "4"
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "•••••••••••••••••••••••••••••••••••••••••",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -69,7 +69,7 @@
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "RODYLIE23"
   
     },
     "OPENAI_API_KEY": {
@@ -84,12 +84,12 @@
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "hdjUdjdHkdhdjJdjdjhd",
       "required" :false
     },
     "MODE": {
       "description": "Worktype of your bot. Use public/private, if private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
@@ -98,8 +98,8 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
-      "required": false 
+      "value": "▒▓▆▅▃▁RODYLIE23▂▃▅▆▓▒⁩",
+      "required": true 
     }
   }, 
   "addons": [{ "plan": "heroku-postgresql:essential-0" }],
