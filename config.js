@@ -85,8 +85,8 @@ module.exports = {
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
-  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
-  HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
+  HEROKU_API_KEY: process.env.HEROKU_API_KEY || "HRKU-29a3ea5b-5b7e-4fa2-97fa-f990f17fd9a6",
+  HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "maximebot",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
