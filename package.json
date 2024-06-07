@@ -1,19 +1,19 @@
 {
-   "name": "suhail-md",
-   "version": "1.3.7",
+   "name": "QUEEN-THARU-md",
+   "version": "1.1.0",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start . --deep-monitoring --attach --name Suhail || node .",
-            "suhail": "pm2 start . --deep-monitoring --attach --name Suhail || node .",
+            "run": "pm2 start . --deep-monitoring --attach --name Queen Tharu || node .",
+            "suhail": "pm2 start . --deep-monitoring --attach --name Queen Tharu || node .",
             "start": "pm2 start . --attach --name Suhail",
-            "stop": "pm2 stop Suhail",
-            "old-heroku-postbuild": "git clone https://github.com/SuhailTechInfo/Suhail-Md.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-            "fis-heroku-postbuild": "git clone https://github.com/SuhailTechInfo/Suhail-Md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+            "stop": "pm2 stop Queen Tharu",
+            "old-heroku-postbuild": "git clone https://github.com/mrsupunfernando1/QUEEN-THARU-MD.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+            "fis-heroku-postbuild": "git clone https://github.com/mrsupunfernando1/QUEEN-THARU-MD.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
             "dbs--postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "SuhailTechInfo",
+   "author": "mrsupunfernando1",
    "license" :"Apache-2.0",
    "dependencies": {
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -74,8 +74,8 @@
    },
    "--repository": {
       "type": "git",
-      "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+      "url": "https://github.com/mrsupunfernando1/QUEEN-THARU-MD.git"
    },
-   "--bugs": { "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues" },
-   "--homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+   "--bugs": { "url": "https://github.com/mrsupunfernando1/QUEEN-THARU-MD/issues" },
+   "--homepage": "https://github.com/mrsupunfernando1/QUEEN-THARU-MD#readme"
 }
