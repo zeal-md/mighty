@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Suhail-Md" height="400" src="/https://telegra.ph/file/f4b9463b4b941909cfe8a.jpg">
   </a>
 </p>
     
