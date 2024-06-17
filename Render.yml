@@ -1,5 +1,5 @@
-build:
-  docker:
+build: npm install 
+  docker: render.yml
       worker: /Dockerfile
-run:
+run: npm start 
    worker: install 
