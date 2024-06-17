@@ -13,13 +13,13 @@
       "required" :true
     },   
      
-    "CAN_WELCOME": {false
+    "CAN_WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
       "value": "true",
       "required" :false
     },
      
-    "CAN_GOODBYE": {false 
+    "CAN_GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
       "value": "false",
       "required" :false
@@ -29,7 +29,7 @@
       "required" :false,    
       "value": "sᴜʜᴀɪʟ-ᴍᴅ"
     }, 
-    "TZ": {"Nairobi/Kenya
+    "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
       "value": "Asia/Karachi"
@@ -63,7 +63,7 @@
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
       "value": "."
     },
-    "OWNER_NUMBER": {”254743416283”
+    "OWNER_NUMBER": {”2\,5\,\4)743416283”
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "value": "923184474176"
     },
