@@ -6,9 +6,9 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 global.audio= "" ;  
 global.video= "" ;
 global.port =process.env.PORT
-global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="saimsamsun789@gmail.com"
-global.location="Lahore,Pakistan."
+global.appUrl=process.env.APP_URL || "https://kingsdata.com.ng/register/?ref=KINGSDATA"                       // put your app url here,
+global.email ="kingjoj180gmail.com"
+global.location="Nigeria."
 
 
 global.mongodb= process.env.MONGODB_URI || ""
@@ -17,14 +17,14 @@ global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
+global.github=process.env.GITHUB|| "https://kingsdata.com.ng/register/?ref=KINGSDATA";
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaUeNsz9MF96qPZuUR2Q";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaUeNsz9MF96qPZuUR2Q" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://www.google.com/search?q=king+joj&client=ms-android-samsung-ss&sca_esv=604514bc2b352c86&udm=2&biw=412&bih=837&sxsrf=ADLYWII78ubYCBWzUt_JF0ZM4Mu_oH2Shw%3A1719202376451&ei=SPJ4ZtSFG8SrhbIPueqqqAQ&oq=king+joj&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIghraW5nIGpvajIFEAAYgAQyBhAAGAcYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHkiMFlDyEljyEnAAeACQAQCYAe8CoAGxBKoBBzAuMS4wLjG4AQPIAQD4AQGYAgKgAs0EwgIEECMYJ5gDAOIDBRIBMSBAiAYBkgcFMi0xLjGgB-wE&sclient=mobile-gws-wiz-serp#vhid=pC_JXuabMMC6KM&vssid=mosaicraw=true" ; // SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ" 
 
 
-global.devs = "923184474176" // Developer Contact
+global.devs = "+2349039923664" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2349039923664";
 
