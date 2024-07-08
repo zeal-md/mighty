@@ -21,12 +21,12 @@ global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md"
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaFv1RZ3QxRtLXfI993h";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaFv1RZ3QxRtLXfI993h" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ" 
+global.caption = process.env.CAPTION || global.caption || "https://whatsapp.com/channel/0029VaFv1RZ3QxRtLXfI993h" 
 
 
 global.devs = "923474703858" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923184474176";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923474703858";
 
 
 
@@ -74,8 +74,8 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.8",
   caption : global.caption || "" , // ```『 https://whatsapp.com/channel/0029VaFv1RZ3QxRtLXfI993h』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "",
+  author : process.env.PACK_AUTHER|| "*➻❥𓆩❥⋆⃝°°~ساحل~⋆⃝°°𓆪࿐➻❥*",
+  packname: process.env.PACK_NAME || "923078283084",
   botname : process.env.BOT_NAME  || "SAHIL KING",
   ownername:process.env.OWNER_NAME|| "SAHIL",
 
