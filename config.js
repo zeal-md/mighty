@@ -62,7 +62,7 @@ global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel
 global.scan = "https://suhail-md-vtsf.onrender.com";
 
 
-global.SESSION_ID = process.env.SESSION_ID ||  ""  // PUT your SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID ||  "SUHAIL_08_55_07_11_ewogICJjcmVkcy5qc29uIjogIntcbiAgXCJub2lzZUtleVwiOiB7XG4gICAgXCJwcml2YXRlXCI6IHtcbiAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgXCJkYXRhXCI6IFtcbiAgICAgICAgMTIwLFxuICAgICAgICAyMTcsXG4gICAgICAgIDk5LFxuICAgICAgICA2MCxcbiAgICAgICAgMTk0LFxuICAgICAgICAxODAsXG4gICAgICAgIDc2LFxuICAgICAgICAxMDMsXG4gICAgICAgIDIxNSxcbiAgICAgICAgMzMsXG4gICAgICAgIDEyMyxcbiAgICAgICAgMjIxLFxuICAgICAgICAxMzIsXG4gICAgICAgIDE2NyxcbiAgICAgICAgMTY4LFxuICAgICAgICAzOSxcbiAgICAgICAgMjUxLFxuICAgICAgICAyMjEsXG4gICAgICAgIDExNixcbiAgICAgICAgODYsXG4gICAgICAgIDExNyxcbiAgICAgICAgOTgsXG4gICAgICAgIDI2LFxuICAgICAgICAyMjQsXG4gICAgICAgIDE2NyxcbiAgICAgICAgMzQsXG4gICAgICAgIDI1MSxcbiAgICAgICAgMjE0LFxuICAgICAgICAxNixcbiAgICAgICAgMTk4LFxuICAgICAgICA1NyxcbiAgICAgICAgNjZcbiAgICAgIF1cbiAgICB9LFxuI…"  // PUT your SESSION_ID 
 
 
 module.exports = {
