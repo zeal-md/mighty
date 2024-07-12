@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.3.9",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "name": "Professor-md@1.3.9",
+  "description": "I am Professor Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/profTechInfo",
+  "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/prof.jpg?raw=true",
+  "keywords": ["whatsappbot", "Professor", "Professor Md bot", "Professor-Md", "ProfessorwaBot", "ProfessorWaBot","ProfessorMD","Professor Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   "stack":"container",
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Professor",
       "required" :true
     },   
      
