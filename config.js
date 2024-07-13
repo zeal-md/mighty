@@ -18,15 +18,15 @@ global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va5mXGNLdQeXkib1M82X";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va5mXGNLdQeXkib1M82X" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
 global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ" 
 
 
-global.devs = "923184474176" // Developer Contact
+global.devs = "212624855939" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923184474176";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "212624855939";
 
 
 
@@ -56,13 +56,13 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,923xxxxxxxx";
 global.read_status = process.env.AUTO_READ_STATUS || "false"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "923184474176,923xxxxxxxx";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "212624855939,923xxxxxxxx";
 
 global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel.app" // expires
 global.scan = "https://suhail-md-vtsf.onrender.com";
 
 
-global.SESSION_ID = process.env.SESSION_ID ||  ""  // PUT your SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID ||  "{"noiseKey":{"private":{"type":"Buffer","data":"ULerTgVc4OBOJQbbPro+mklQlj+RwoWKHNYZDWgkxXk="},"public":{"type":"Buffer","data":"cDde23WaZq6PVa8e5cmjSEd2PSsdXSLZyPR8OqKlBDw="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"eNvaa9usyjwAlLUaVB+8VRjev7WoPTSeZMWK2I8jD24="},"public":{"type":"Buffer","data":"yHhtQSVioH+qiaomNQi/P2eN3+D/f0YlEeAvaQhVVDs="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"mJp7Gq+oGgonat35tBshHXYJ+hBYPGDmpl0WFaPGC08="},"public":{"type":"Buffer","data":"orXdU99NeDkUAuRJ7A9KYJK3mPjSF0ogNpHUg5LwdV8="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"IKp/nZ75I7uHTUrI4K+etVBoDHcrfNh6qf4JyJjWYEs="},"public":{"type":"Buffer","data":"RZQ/z7ZKbnwmfcITKejp7naOMl40h5XLD393MUnMXHY="}},"signature":{"type":"Buffer","data":"qKltTtMdCr8Z8/mXIXA3sR7EBzixx2/Fbsb4afvj2lKm9yCFvxpnAZSEcO/FeIfFYMzyfj0Ss3Iu3eVfd0KaDQ=="},"keyId":1},"registrationId":88,"advSecretKey":"oguZvGQxRQrqpCffHQgrN0Q5cPx+FokknOlm9FEZznI=","processedHistoryMessages":[{"key":{"remoteJid":"212624855939@s.whatsapp.net","fromMe":true,"id":"AA59A4E1530C469498A66270DABEFF99"},"messageTimestamp":1720042631}],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"hl2xsk-oSxqjl8XHtw_jfw","phoneId":"b0278864-5845-4fdb-830c-e814a70a87f4","identityId":{"type":"Buffer","data":"qebSg9DJjycAi5mwpAVaOMYWr04="},"registered":true,"backupToken":{"type":"Buffer","data":"gH3YA3ONlo+JgBSh9ls1MwnLj2U="},"registration":{},"pairingCode":"1QBFYJZQ","me":{"id":"212624855939:15@s.whatsapp.net","name":"hamzaamirni"},"account":{"details":"CJeysOIEEPeIl7QGGAMgACgA","accountSignatureKey":"5iX865h+IM1Hnw2TlMvBA49xc3YLTcZvtsJtbmk4/R4=","accountSignature":"f1ONAkxiVulY11s4f/Fz7mRSKbfi7HUDoXnjpaE/jsGMr3SXr6ieOdZLLWGxU4mFtkCK66ncok7qeTg1xW0RBg==","deviceSignature":"jTqdBLW6K04YpYR/jzwDsjiKR+pIU/bh7/RCYCysrKy7GN0Ak3V7B5sjRdw8cb9IEofAWJ00jP02Bhyhp5FWBw=="},"signalIdentities":[{"identifier":{"name":"212624855939:15@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BeYl/OuYfiDNR58Nk5TLwQOPcXN2C03Gb7bCbW5pOP0e"}}],"platform":"smba","lastAccountSyncTimestamp":1720042621,"myAppStateKeyId":"AAAAAJZw"}"  // PUT your SESSION_ID 
 
 
 module.exports = {
