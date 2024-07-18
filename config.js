@@ -76,8 +76,8 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "yourboylouii",
+  botname : process.env.BOT_NAME  || "louii codex",
+  ownername:process.env.OWNER_NAME|| "louii",
 
 
   errorChat : process.env.ERROR_CHAT || "",
@@ -92,7 +92,7 @@ module.exports = {
 
 
   WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "private",
-  LANG: ( process.env.THEME ||  "louii"  ).toUpperCase(),
+  LANG: ( process.env.THEME ||  "Suhail"  ).toUpperCase(),
 
 
 
