@@ -1,4 +1,4 @@
-web: npm start || yarn start
+worker: npm install && npm start
 
 
 
